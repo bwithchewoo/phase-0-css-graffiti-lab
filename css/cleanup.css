@@ -1,1 +1,28 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+#wall .tag-2 {
+    display: none;
+}
+#wall .tag-3 {
+    display: none;
+}
+
+#wall .tag-5 {
+    z-index: 20;
+    left: 50px;
+   
+}
+
+#wall .tag-6 {
+    z-index: 20;
+    left: -50px;
+    top: 5px;
+}
+
+#wall .tag-7 {
+    z-index: 5;
+    left: 100px;
+    top: -10px;
+}
